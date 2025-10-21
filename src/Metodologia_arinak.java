@@ -19,7 +19,7 @@ public class Metodologia_arinak {
      * Agurraren Testa. 
      */
     static String agurra() {
-        return "Kaixo , hau Metodologia Arinak azaltzeko javako programa da.";
+        return "Kaix , hau Metodologia Arinak azaltzeko javako programa da.";
     }
 
     /**
