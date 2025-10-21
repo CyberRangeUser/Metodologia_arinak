@@ -24,9 +24,10 @@ public class Metodologia_arinak {
 
     /**
      * Metodo nagusian while baten barruan menu bat hasieratzen da, eta switcharekin 3 aukera hasieratzen dira zeinetan azalpenak dauden.
-     * Birfaktorizazioa: 62, 72, 84 eta 96 lerroetan metodoak egin ditut, horrela main laburragoa egiten da eta ulergarriagoa.
+     * Birfaktorizazioa: 62 , 72, 84 eta 96 lerroetan metodoak egin ditut, horrela main laburragoa egiten da eta ulergarriagoa.
      * @param args
      * @throws Exception
+     
      */
     public static void main(String[] args) {
 
